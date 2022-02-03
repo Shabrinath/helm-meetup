@@ -28,3 +28,4 @@ spec:
           secretName: azure-storage-secret
           shareName: my-file-share
           readOnly: false
+
